@@ -8,7 +8,7 @@ import java.util.List;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 
-public class FileComparatorTest {
+public class FileComparatorTest { //just testing commit
 	private final File original = new File("/Users/margaretknoblock/Documents/Summer2016/originalFile.txt");
 	 
     private final File revised = new File("/Users/margaretknoblock/Documents/Summer2016/revisedFile.txt");
